@@ -59,7 +59,7 @@ RAG is a technique for answering questions using a large language model (LLM) an
 
 We aren't using a vector database in this example, but the process is the same. We are using the cosine similarity function to find the most similar sentences to the question.
 
-## Why used a vector database?
+## Why should we use a vector database?
 
 Vector databases are optimized for similarity search, which makes them a good fit for RAG systems. They are also designed to handle the high dimensional data that embeddings produce.
 
