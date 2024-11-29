@@ -1,0 +1,8 @@
+# Ignore the .env file
+.env
+
+# Ignore venv
+venv/
+
+# Ignore the .DS_Store file
+.DS_Store
